@@ -1,7 +1,7 @@
  ## Olá! Eu sou a Letícia Escobar ✨
  
  - 💻 Graduanda no curso de Tecnologia em Análise e Desenvolvimento de Sistemas - IFMS/TL
- - 📱 UI/UX designer
+ - 📱 UI/UX Designer
  - 👩🏻‍💻 Estudando Web Design
 
 <div align="center">
