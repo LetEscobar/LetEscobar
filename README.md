@@ -1,9 +1,8 @@
  ## Olá! Eu sou a Letícia Escobar ✨
  
- - 💻 Estudante de Análise e Desenvolvimento de Sistemas - IFMS/TL
- - 📱 UI designer, com experiência no Figma
- - 📘 Estudando HTML, CSS e JavaScript
- - 👩🏻‍💻 Futura desenvolvedora Front-end
+ - 💻 Graduanda no curso de Tecnologia em Análise e Desenvolvimento de Sistemas - IFMS/TL
+ - 📱 UI/UX designer
+ - 👩🏻‍💻 Estudando Web Design
 
 <div align="center">
   <a href="https://github.com/LetEscobar">
